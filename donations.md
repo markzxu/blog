@@ -4,7 +4,7 @@ title: About
 
 ---
 
-Giving money to effective charities can do a lot of good. Below is a public record of my donations that I optimized for direct altruistic impact. I have omitted donations primarily made for personal reasons.
+Giving money to effective charities can do a lot of good. Below is a public record of my donations made for altruistic impact. I have omitted donations primarily made for personal reasons.
 
 "Income" shows my "adjusted gross income" as reported on various US tax forms. 
 
