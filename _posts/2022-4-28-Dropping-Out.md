@@ -1,5 +1,5 @@
 ---
-title: "'Dropping out' isn't an Plan"
+title: "'Dropping out' isn't a Plan"
 ---
 
 The following career-choice diagram looks silly:
