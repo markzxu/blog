@@ -2,7 +2,7 @@
 title: "'Dropping out' isn't an Plan"
 ---
 
-The follow career-choice diagram looks silly:
+The following career-choice diagram looks silly:
 
 ![finance](https://tva1.sinaimg.cn/large/e6c9d24egy1h1q304et83j20y00l0wfo.jpg)
 
