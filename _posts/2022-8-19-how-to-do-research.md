@@ -1,4 +1,9 @@
->
+---
+title: How to do theoretical research, a personal perspective
+---
+
+
+
 >_"Where do new [algorithms] come from? I keep reading about someone who invented [an algorithm] to do something-or-other but there's no mention of how."_
 >
 >_A shrug of robed shoulders. "Where do new books come from, Mr. Potter? Those who read many books sometimes become able to write them in turn. How? No one knows."_
