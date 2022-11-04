@@ -168,7 +168,7 @@ I’m currently considering cases like:
     * x := d OR hx
     * y := d OR hy
 
-It seems clear that d would be a good direct translator in this case, while the x OR y would be bad. But is d AND ¬hx AND ¬hy also an acceptable direct translator? 
+It seems clear that 'd' would be a good direct translator in this case, while 'x AND y' would be bad. But is d AND ¬hx AND ¬hy also an acceptable direct translator? 
 
 This example can be extended in a few ways:
 
