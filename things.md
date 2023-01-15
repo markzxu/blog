@@ -113,6 +113,7 @@ Last updated: September 4th, 2021.
 * [Duck EZ Start Packing Tape](https://smile.amazon.com/gp/product/B0033URRSM/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 * [Greenbell Nail Clipper](https://smile.amazon.com/gp/product/B000FQS9AC/ref=ppx_yo_dt_b_asin_title_o01_s02?ie=UTF8&psc=1)
 * [iFixit Manta Driver Kit](https://smile.amazon.com/iFixit-Manta-Driver-Kit-Piece/dp/B07BMM74FD)
+* [Instant Rice](https://www.amazon.com/dp/B003U97L1Y?ref_=cm_sw_r_apin_dp_PK26XER982SRWDQBZBG3)
 * [Screwpop Utility Knife](https://www.amazon.com/gp/product/B00UZHT432/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Secrid Slimwallet](https://secrid.com/en-us/slimwallet-original-black/)
 * [Tungsten cube](https://smile.amazon.com/Tungsten-Cube-1-5-One-Kilo/dp/B00XZBIJLS)
