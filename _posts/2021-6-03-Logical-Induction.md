@@ -8,7 +8,7 @@ This post is a high-level summary of the core insights and arguments in [Logical
 
 A brief note on naming: Solomonoff exhibited an uncomputable algorithm that does idealized induction, which we call [Solomonoff induction](https://www.lesswrong.com/posts/Kyc5dFDzBg4WccrbK/an-intuitive-explanation-of-solomonoff-induction). Garrabrant exhibited a computable algorithm that does logical induction, which we have named Garrabrant induction. 
 
-Thanks to Mauricio Baker for helpful comments. My editor is Justis Mills. Graphics are done by Sabrina Chwalek.
+My editor is Justis Mills. Graphics are done by Sabrina Chwalek.
 
 
 # Introduction [1]
