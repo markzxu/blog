@@ -48,7 +48,7 @@ Last updated: Aug 11th, 2022.
 * [Philips Nose Trimmer](https://www.amazon.com/gp/product/B00QYOSK9E/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 * [Philips Sonicare Toothbrush](https://www.amazon.com/gp/product/B078GVDB19/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1)
 
-# Environmental Adjusters
+# Household
 
 * [Aeron Chair](https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html?lang=en_US)
 * [Battlestar Roller](https://www.roguefitness.com/mobility-wod-battlestar-2-0-kits)
