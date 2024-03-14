@@ -2,8 +2,6 @@
 title: Meta-EA Needs Models
 ---
 
-Thanks to Kuhan Jeyapragasan, Michael Byun, Sydney Von Arx, Thomas Kwa, Jack Ryan, Adam Křivka, and Buck Shlegeris for helpful comments and discussion.
-
 Epistemic status: a bunch of stuff
 
 Sometimes I have conversations with people that go like this:
