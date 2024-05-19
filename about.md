@@ -5,7 +5,7 @@ title: About
 
 I'm Mark Xu. I look like this:
 
-![](/assets/profile_640.png)
+![](/assets/profile.png)
 
 I work at the [Alignment Research Center](https://alignmentresearchcenter.org/).
 
