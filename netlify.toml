@@ -1,0 +1,12 @@
+[build]
+  command = """
+    apt-get update -y
+    apt-get install -y build-essential
+    bundle config set --local path 'vendor/bundle'
+    bundle install
+    bundle exec jekyll build
+  """
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.3.4"
