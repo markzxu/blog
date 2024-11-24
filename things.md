@@ -4,7 +4,7 @@ title: My Favorite Things
 ---
 These are a few of my favorite things. 
 
-Last updated: Aug 11th, 2022.
+Last updated: Nov 23rd, 2024.
 
 # Brands
 * [Aer](https://aersf.com)
