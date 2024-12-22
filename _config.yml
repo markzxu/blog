@@ -2,7 +2,6 @@ title: Artificially Intelligent
 description: "Any mimicry distinguishable from the original is insufficienty advanced"
 author:
   name: "Mark Xu"
-  email: "m@rkxu.me"
   url: "https://markxu.com"
 
 baseurl: /
@@ -31,7 +30,6 @@ plugins:
 
 # Custom variables
 owner: "Mark Xu"
-year: "2020"
-google_analytics: UA-177634297-1
+year: "2024"
 markdown: kramdown
 encoding: utf-8
