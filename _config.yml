@@ -1,5 +1,5 @@
-title: Artificially Intelligent
-description: "Any mimicry distinguishable from the original is insufficienty advanced"
+title: Ex Anter
+description: "Ex ante thoughts from the midst of history."
 author:
   name: "Mark Xu"
   url: "https://markxu.com"
@@ -30,7 +30,7 @@ plugins:
 
 # Custom variables
 owner: "Mark Xu"
-year: "2024"
+year: "2025"
 google_analytics: UA-177634297-1
 markdown: kramdown
 encoding: utf-8
