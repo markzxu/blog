@@ -3,6 +3,8 @@ title: Death is Bad
 published: true
 ---
 
+[As of 7/1/2025, I do not endorse the tone of this piece.]
+
 When I was about 13, I was at a birthday party. Someone started clapping and said: "every time I clap, someone in the world dies."  Someone else called out: "then stop clapping your hands!" Laughter ensued, and the incident was quickly forgotten. 
 
 While you are reading this sentence, someone in the world has died. A thinking thing has been unmade. The horror of this is literally unimaginable; your mind is not big enough to contain the entire being of another. You can only ever contemplate death approximately and abstractly.
