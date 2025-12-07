@@ -148,6 +148,22 @@ dt {
   list-style-type: none;
 }
 
+.archive-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.archive-list li {
+  margin-bottom: 0.5em;
+}
+
+.archive-date {
+  display: inline-block;
+  width: 110px;
+  color: #666;
+  font-size: 0.9em;
+}
+
 blockquote {
   color: $blockquote-color;
   padding-left: 10px;
@@ -249,11 +265,25 @@ hr:after {
 a {
   color: inherit;
   text-shadow: none;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+header a,
+.post-list h2 a,
+.archive-list a,
+.pagination a {
+  text-decoration: none;
+}
+
+header a:hover,
+.post-list h2 a:hover,
+.archive-list a:hover,
+.pagination a:hover {
+  text-decoration: none;
 }
 
 a:active, a:focus {
