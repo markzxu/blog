@@ -20,7 +20,6 @@ Much has been written about the [Feynman Technique](https://fs.blog/2012/04/feyn
 ## TAP 1: Examples
 
 * Trigger: [Notice](https://www.lesswrong.com/posts/2n83uRi36KWDC9LyK/training-regime-day-8-noticing) you made a claim with some amount of vagueness.
-
 * Action: Start saying "For example, ..."
 
 For example (see what I'm doing), I might say "regular exercise is good for you" and notice that "regular" and "good" are words with multiple possible interpretations, so I would follow it up with "For example, walking for 10 minutes a day makes you happier". Another example: I might say "functions map inputs to outputs, for example, the square function takes numbers and maps them to the square of that number, e.g. it would take 2 to 4, 3 to 9, etc." Notice that sometimes your example itself can have some vagueness, so the TAP fires recursively. This is the key TAP for teaching.
@@ -38,7 +37,6 @@ After one has asked for many examples, one starts to develop a sense of when ask
 ## TAP 2: Paraphrasing
 
 * Trigger: someone explains something to you.
-
 * Action: Start saying "so what your saying is"
 
 For example, if someone explains to me a [model of muscle memory](https://markxu.com/mediocre-models), I might say something like "so what your saying is that when your brain sends signals to your muscles, it doesn't quite say 'move muscle 1 this way and muscle 2 that way', it says something closer to 'do the walking thing', which then gets interpreted into muscle movements based on history and maybe some other stuff. This means that if you've been doing a particular motion wrong your whole life, you're going to continue doing it wrong by default, e.g. like sitting with bad posture. The point of physical therapy is to say to your muscles 'THIS IS HOW YOU DO THE WALKING THING' over and over again, so that the next time your brain sends the 'walk' signal, you do the walking thing correctly." This generally happens in conversation and is extremely useful, but in the limit, this looks like reading [What does the universal prior actually look like?](https://ordinaryideas.wordpress.com/2016/11/30/what-does-the-universal-prior-actually-look-like/) and writing [The Solomonoff Prior is Malign](https://www.lesswrong.com/posts/Tr7tAyt5zZpdTwTQK/the-solomonoff-prior-is-malign). This is the key TAP for learning.
@@ -56,5 +54,4 @@ After one has paraphrased your own understanding many times, you develop better 
 # Exercise
 
 * Pick three things, like fruits, furniture, or sports, and give three examples of those things, like apples, chairs, and baseball
-
 * In the comments, paraphrase my explanation of why paraphrasing is useful for improving and checking understanding. Be sure to include examples.
