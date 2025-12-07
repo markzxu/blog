@@ -1,5 +1,5 @@
 ---
-title: Commitments are not "real"
+title: A model of commitments
 ---
 There are two agents, Alice and Bob. There is an action *a* that Alice currently cannot take, (perhaps because it can only taken at a future point in time). Alice wants Bob to predict that Alice will take that action, perhaps so Bob doesn't have to spend as much time on monitoring Alice.
 
