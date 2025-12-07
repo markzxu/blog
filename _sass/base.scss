@@ -280,9 +280,12 @@ header a,
 
 header a:hover,
 .post-list h2 a:hover,
-.archive-list a:hover,
 .pagination a:hover {
   text-decoration: none;
+}
+
+.archive-list a:hover {
+  text-decoration: underline;
 }
 
 a:active, a:focus {
